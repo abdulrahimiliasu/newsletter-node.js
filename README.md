@@ -5,6 +5,7 @@ A newsletter app developed with node.js using express and mailchimp web API.
 # Usage
 
 ```javascript
+// YOUR DATA GOES HERE
 const api_key = 'MAILCHIMP-API-KEY'
 const list_id = 'LIST-ID';
 
