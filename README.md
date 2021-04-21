@@ -31,4 +31,4 @@ you can customize mailchimp data,
     };
  ```
  ------
- [Mailchimp API Documentation link ](https://mailchimp.com/developer/)
+ [Mailchimp API Documentation](https://mailchimp.com/developer/)
